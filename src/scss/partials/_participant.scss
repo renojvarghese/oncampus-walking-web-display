@@ -9,10 +9,17 @@
     justify-content: space-between;
     margin: 15px 0px;
     box-shadow: $box-shadow;
+    position: relative;
+    transition: all 0.25s ease;
+    left: 0;
     * {
         padding: 30px;
     }
+    &:hover {
+        left: 10px;
+    }
 }
+
 .part-name {
     font-weight: 700;
     font-size: 16pt;
