@@ -1,16 +1,16 @@
 import React, { Component } from "react";
 
 export const ParticipantBox = ({
-    name = "default",
-    start = "N/A",
-    end = "N/A",
-    miles = 0
+    name = "PARTICPANT ID",
+    start = "10/12",
+    end = "Present",
+    miles = 100
 }) => (
-    <div>
-        <div>{name}</div>
-        <div>{start}</div>
-        <div>{end}</div>
-        <div>{miles}</div>
+    <div className="part-box">
+        <div className="part-name">{name}</div>
+        <div className="part-start">Start Time: {start}</div>
+        <div className="part-end">End Time:{end}</div>
+        <div className="part-miles">Total Miles: {miles} mi</div>
     </div>
 );
 

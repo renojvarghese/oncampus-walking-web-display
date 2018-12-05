@@ -4,7 +4,7 @@ import ParticipantBox from "../participantBox";
 export default class ParticipantContainer extends Component {
     render() {
         return (
-            <div>
+            <div className="part-container">
                 <ParticipantBox />
                 <ParticipantBox />
             </div>

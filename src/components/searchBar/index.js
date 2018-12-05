@@ -5,7 +5,7 @@ import SearchButton from "./SearchButton";
 export default class SearchBar extends Component {
     render() {
         return (
-            <div>
+            <div className="search-container">
                 <SearchBox />
                 <SearchButton>Submit</SearchButton>
             </div>
