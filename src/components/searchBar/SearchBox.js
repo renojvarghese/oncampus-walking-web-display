@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 export const SearchBox = ({ onChange, placeholder = "Search" }) => (
     <div className="search-box">

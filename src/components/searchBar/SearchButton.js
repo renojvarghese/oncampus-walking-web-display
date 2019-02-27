@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 export const SearchButton = ({ onClick, children }) => (
     <div className="search-btn-container">
