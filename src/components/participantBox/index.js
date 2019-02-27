@@ -1,5 +1,4 @@
 import React from "react";
-
 export const ParticipantBox = ({
     name = "PARTICPANT ID",
     start = "10/12",
