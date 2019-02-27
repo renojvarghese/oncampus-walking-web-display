@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oncampus-walking-web-display/precache-manifest.c8a34b50d67faf5cb9d554769c4905cd.js"
+  "/oncampus-walking-web-display/precache-manifest.a16babba020f85f54ffd27c1514cc74e.js"
 );
 
 workbox.clientsClaim();
