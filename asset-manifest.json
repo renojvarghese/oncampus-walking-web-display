@@ -1,13 +1,15 @@
 {
-  "main.css": "/static/css/main.eff8df7e.chunk.css",
-  "main.js": "/static/js/main.64eba4cc.chunk.js",
-  "main.js.map": "/static/js/main.64eba4cc.chunk.js.map",
-  "static/js/1.4d4949a9.chunk.js": "/static/js/1.4d4949a9.chunk.js",
-  "static/js/1.4d4949a9.chunk.js.map": "/static/js/1.4d4949a9.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.eff8df7e.chunk.css.map": "/static/css/main.eff8df7e.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.6844050172e73e853dd025e4c4e556af.js": "/precache-manifest.6844050172e73e853dd025e4c4e556af.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/oncampus-walking-web-display/static/css/main.e3b1af55.chunk.css",
+  "main.js": "/oncampus-walking-web-display/static/js/main.298885da.chunk.js",
+  "main.js.map": "/oncampus-walking-web-display/static/js/main.298885da.chunk.js.map",
+  "static/css/1.5ef21bbb.chunk.css": "/oncampus-walking-web-display/static/css/1.5ef21bbb.chunk.css",
+  "static/js/1.c26743f8.chunk.js": "/oncampus-walking-web-display/static/js/1.c26743f8.chunk.js",
+  "static/js/1.c26743f8.chunk.js.map": "/oncampus-walking-web-display/static/js/1.c26743f8.chunk.js.map",
+  "runtime~main.js": "/oncampus-walking-web-display/static/js/runtime~main.af550946.js",
+  "runtime~main.js.map": "/oncampus-walking-web-display/static/js/runtime~main.af550946.js.map",
+  "static/css/main.e3b1af55.chunk.css.map": "/oncampus-walking-web-display/static/css/main.e3b1af55.chunk.css.map",
+  "static/css/1.5ef21bbb.chunk.css.map": "/oncampus-walking-web-display/static/css/1.5ef21bbb.chunk.css.map",
+  "index.html": "/oncampus-walking-web-display/index.html",
+  "precache-manifest.c8a34b50d67faf5cb9d554769c4905cd.js": "/oncampus-walking-web-display/precache-manifest.c8a34b50d67faf5cb9d554769c4905cd.js",
+  "service-worker.js": "/oncampus-walking-web-display/service-worker.js"
 }
